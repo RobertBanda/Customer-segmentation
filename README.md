@@ -88,9 +88,8 @@ lsapp-user-segmentation/
 ├── README.md                              # This file
 ├── requirements.txt                        # Python dependencies
 ├── lsapp.tsv                              # Dataset (after extraction)
-├── lsapp_user_segmentation_part1.ipynb    # Main analysis notebook
-├── lsapp_part2_clustering.py              # Clustering functions
-├── environment.yml                         # Conda environment (optional)
+├── customer segmentation analysis.ipynb   # Main analysis notebook
+├── requirements.txt                       # Conda requirements (optional)
 └── results/                               # Generated outputs (created during run)
     ├── figures/                           # Visualizations
     ├── cluster_profiles/                  # Cluster analysis results
