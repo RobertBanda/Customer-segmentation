@@ -70,7 +70,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-2. Open `lsapp_user_segmentation_part1.ipynb`
+2. Open `customer segmentation analysis.ipynb`
 3. Run all cells sequentially
 4. The notebook is self-contained with detailed explanations
 
