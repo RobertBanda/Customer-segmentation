@@ -272,7 +272,7 @@ This project is open source and available under the MIT License.
 
 ##  Contact
 
-For questions or feedback, please open an issue on GitHub or contact [your-email@example.com]
+For questions or feedback, please open an issue on GitHub or contact [rpbert.reratyo@gmail.com]
 
 ## 🔮 Future Work
 
