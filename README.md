@@ -2,7 +2,7 @@
 
 A comprehensive machine learning project for segmenting mobile app users based on usage patterns using the LSApp dataset.
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes the LSApp (Large dataset of Sequential mobile App usage) dataset to segment 292 users based on their mobile app usage patterns. The dataset contains 599,635 app usage records collected through the uSearch Android app.
 
@@ -16,7 +16,7 @@ Segment users across multiple dimensions:
 5. **App Preferences**: Most frequently used app categories
 6. **Custom Clustering**: Additional behavioral patterns
 
-## 🎯 Dataset Information
+##  Dataset Information
 
 - **Source**: [LSApp GitHub Repository](https://github.com/aliannejadi/lsapp)
 - **Records**: 599,635 app usage events
@@ -34,7 +34,7 @@ Segment users across multiple dimensions:
 | `app_name` | Name of the app |
 | `event_type` | Type of event (Opened, Closed, User Interaction, Broken) |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -81,7 +81,7 @@ For Part 2 clustering analysis:
 python lsapp_part2_clustering.py
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 lsapp-user-segmentation/
@@ -97,7 +97,7 @@ lsapp-user-segmentation/
     └── models/                            # Saved models
 ```
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Timestamp conversion and temporal feature extraction
@@ -196,7 +196,7 @@ Results will vary based on the optimal k chosen, but typical patterns include:
    - Sporadic usage
    - Games & utilities preference
 
-## 📊 Visualizations
+##  Visualizations
 
 The analysis generates 15+ comprehensive visualizations:
 
@@ -230,7 +230,7 @@ The analysis generates 15+ comprehensive visualizations:
 - **Statistical Analysis**: scipy
 - **Notebook**: Jupyter
 
-## 📚 References
+##  References
 
 ### Research Paper
 ```bibtex
@@ -246,7 +246,7 @@ The analysis generates 15+ comprehensive visualizations:
 1. Aliannejadi et al. (2018). "Target Apps Selection: Towards a Unified Search Framework for Mobile Devices." SIGIR.
 2. Aliannejadi et al. (2018). "In Situ and Context-Aware Target Apps Selection for Unified Mobile Search." CIKM.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -256,21 +256,21 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is open source and available under the MIT License.
 
-## 👥 Authors
+##  Authors
 
 - Your Name - *Initial work*
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - LSApp dataset creators: Jacopo Fidacaro, Luca Costa, Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, W. Bruce Croft
 - Università della Svizzera italiana (USI), Lugano, Switzerland
 - University of Massachusetts Amherst, Amherst, MA, USA
 
-## 📞 Contact
+##  Contact
 
 For questions or feedback, please open an issue on GitHub or contact [your-email@example.com]
 
@@ -286,5 +286,3 @@ Potential extensions:
 - Privacy-preserving clustering methods
 
 ---
-
-**Note**: This is an educational project for demonstrating machine learning clustering techniques on real-world mobile app usage data.
