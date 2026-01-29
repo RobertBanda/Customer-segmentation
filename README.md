@@ -78,7 +78,7 @@ jupyter notebook
 
 For Part 2 clustering analysis:
 ```bash
-python lsapp_part2_clustering.py
+python customer segmentation analysis.ipynb
 ```
 
 ##  Project Structure
