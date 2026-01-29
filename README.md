@@ -167,28 +167,28 @@ Results will vary based on the optimal k chosen, but typical patterns include:
 
 **Example with k=4:**
 
-1. **Heavy Users** (~20%)
+1. **Heavy Users** 
    - High app variety (15-20 unique apps)
    - Frequent sessions (100+ sessions)
    - Long session durations (8-10 min avg)
    - Active across all time periods
    - Balanced app usage
 
-2. **Casual Users** (~35%)
+2. **Casual Users** 
    - Moderate app variety (8-12 unique apps)
    - Regular sessions (40-60 sessions)
    - Short sessions (3-5 min avg)
    - Evening/night focus
    - Entertainment & social media preference
 
-3. **Power Users** (~25%)
+3. **Power Users** 
    - Very high app variety (20-30 unique apps)
    - Very frequent sessions (150+ sessions)
    - Variable session lengths
    - Morning & daytime active
    - Productivity & communication focus
 
-4. **Light Users** (~20%)
+4. **Light Users** 
    - Low app variety (5-8 unique apps)
    - Infrequent sessions (20-30 sessions)
    - Very short sessions (1-3 min avg)
@@ -197,7 +197,7 @@ Results will vary based on the optimal k chosen, but typical patterns include:
 
 ##  Visualizations
 
-The analysis generates 15+ comprehensive visualizations:
+The analysis generates  comprehensive visualizations:
 
 1. Event type distribution
 2. Top 20 most used apps
@@ -220,7 +220,7 @@ The analysis generates 15+ comprehensive visualizations:
 19. Dendrogram (hierarchical clustering)
 20. Algorithm comparison charts
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.8+**
 - **Data Processing**: pandas, numpy
@@ -273,7 +273,7 @@ This project is open source and available under the MIT License.
 
 For questions or feedback, please open an issue on GitHub or contact [rpbert.reratyo@gmail.com]
 
-## 🔮 Future Work
+##  Future Work
 
 Potential extensions:
 - Deep learning approaches (autoencoders, neural networks)
